@@ -2,9 +2,9 @@
 
 ### **Nível 1 – Iniciante (Fácil)**
 1. Escreva um programa que imprima "Olá, Mundo!" na tela.
-2. Crie um programa que peça um número e exiba se ele é positivo, negativo ou zero.
-3. Leia dois números e exiba a soma deles.
-4. Crie um programa que calcule a média de três números.
+2. Leia dois números e exiba a soma deles.
+3. Crie um programa que calcule a média de três números.
+4. Crie um programa que peça um número e exiba se ele é positivo, negativo ou zero.
 5. Solicite um número ao usuário e imprima se ele é par ou ímpar.
 6. Leia um número e exiba a tabuada dele (de 1 a 10).
 7. Verifique se um número digitado pelo usuário é primo.
